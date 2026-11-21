@@ -2,6 +2,8 @@
 
 تطبيق أندرويد لتنزيل الوسائط العامة من روابط مباشرة. واجهة عربية بالكامل (RTL)، وما تختارش المنصة بنفسك — الصق الرابط والتطبيق يكتشف المصدر ويعرض معاينة حقيقية بالصيغ المتاحة قبل ما تقرر تنزّل.
 
+> 💻 **تستخدم ويندوز؟** فيه نسخة كمان لنظام Windows: [حمّلها من هنا](https://github.com/Mahmoudamier/LinkToClip_Windows/releases/tag/v1.0.3)
+
 ## تحميل التطبيق (للمستخدمين)
 
 [📥 نزّل آخر إصدار APK من هنا](https://github.com/Mahmoudamier/LinkToClip/releases/latest/download/LinkToClip.apk)
