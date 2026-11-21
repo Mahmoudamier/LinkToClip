@@ -1,0 +1,26 @@
+# Local Android SDK / IDE configuration
+local.properties
+.idea/
+*.iml
+.vscode/
+
+# Build outputs
+.gradle/
+.kotlin/
+build/
+app/build/
+*/build/
+captures/
+.cxx/
+
+# Signing keys — never publish these
+*.jks
+*.keystore
+release/
+
+# Local delivery copies (the APK is published on the GitHub Release page instead)
+deliverables/
+
+# OS files
+.DS_Store
+Thumbs.db
